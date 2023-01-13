@@ -1,0 +1,11 @@
+.ul-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 30px;
+}
+.nav-link {
+  list-style: none;
+  margin-left: 25px;
+  margin-right: 25px;
+}
